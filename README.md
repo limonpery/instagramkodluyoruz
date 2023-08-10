@@ -1,2 +1,2 @@
-# instagramkodluyoruz
-ödev2kodluyoruzinstagram
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
